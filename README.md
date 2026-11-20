@@ -4,7 +4,7 @@ I'm a software developer who builds web applications from the data model up. Mos
 
 - 🎓 Informatics Engineering, UPN "Veteran" Yogyakarta (class of 2018)
 - 💼 Software developer: Python, full-stack web and AI integration in business systems
-- 🌐 Portfolio: **[dbaskhara.github.io/testPortfolio](https://dbaskhara.github.io/testPortfolio/)**
+- 🌐 Portfolio: **[dbaskhara.github.io](https://dbaskhara.github.io/)**
 - 📫 Open to developer roles and freelance projects: [LinkedIn](https://www.linkedin.com/in/demitries-baskhara-632bb5268)
 
 ## 🛠️ Tech I work with
@@ -18,8 +18,8 @@ I'm a software developer who builds web applications from the data model up. Mos
 | Project | What it does | Stack |
 |---|---|---|
 | [**Medari Live Kit**](https://github.com/dbaskhara/medari-yt-autogenerate) | Turns a church's weekly service PDF into every asset its YouTube live stream needs: OBS footers, music-sheet slides, the thumbnail and the countdown video. One drop, one click. | Python |
-| [**Schematic**](https://github.com/dbaskhara/schematic) | A multi-page self-help platform built around systematic thinking, reading discipline and self-improvement. [Live demo](https://dbaskhara.github.io/schematic/) | React · Vite |
-| [**Portfolio**](https://github.com/dbaskhara/testPortfolio) | My personal site: a HUD-style one-pager with scroll-driven animation. [Live](https://dbaskhara.github.io/testPortfolio/) | Vite · JavaScript |
+| [**Schematic**](https://github.com/dbaskhara/schematic) | A multi-page self-help platform built around systematic thinking, reading discipline and self-improvement. | React · Vite |
+| [**Portfolio**](https://github.com/dbaskhara/dbaskhara.github.io) | My personal site: a HUD-style one-pager with scroll-driven animation. [Live](https://dbaskhara.github.io/) | Vite · JavaScript |
 | [**YoutubeFocus**](https://github.com/dbaskhara/YoutubeFocus) | A small C++ tool that keeps a focused list of YouTube channels to cut down on distraction. | C++ |
 | [**Lyrics sentiment analysis**](https://github.com/dbaskhara/Tugas-Akhir-Data-Science-2021) | An R Shiny dashboard that analyses the sentiment of song lyrics. | R · Shiny |
 
